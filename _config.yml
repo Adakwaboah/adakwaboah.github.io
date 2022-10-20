@@ -83,8 +83,8 @@ author:
   name             : "Akwasi Akwaboah"
   avatar           : "Akwasi_headshot.jpg"
   bio              : "Ph.D. Candidate, Electrical & Computer Engineering"
-  location         : "Baltimore, MD, USA"
-  employer         : "Johns Hopkins University"
+  location         : #"Baltimore, MD, USA"
+  employer         : "Johns Hopkins University, Baltimore, MD, USA"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=cJ2Ln_cAAAAJ&hl=en&oi=ao"
   email            :
