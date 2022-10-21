@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<em> "Nothing in Life is to be feared, It is only to be understood ..." - Marie Curie</em>
+<em> "Nothing in Life is to be feared, it is only to be understood ..." - Marie Curie</em>
 
 
 I am currently a Ph.D. Candidate at the [Computational Sensory-Motor Systems (CSMS) Lab](https://engineering.jhu.edu/csms/), Department of Electrical and Computer Engineering, Johns Hopkins University. My current research spans the spectrum of neuromorphic circuits & systems and neural interfaces. I am advised by [Dr. Ralph Etienne-Cummings](https://engineering.jhu.edu/csms/team/rec/). Prior to joining the CSMS Lab in 2020, I worked as a research intern at the [Dr. James Weiland](https://bme.umich.edu/people/james-weiland-phd/)'s [BioElectronic Vision Lab (BEVL)](https://weilandresearch.bme.umich.edu), University of Michigan. There, I collaborated on a number of projects in areas of retinal prostheses, optimization for closed-loop neurostimulation and calcium imaging. 

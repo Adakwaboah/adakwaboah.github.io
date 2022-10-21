@@ -169,7 +169,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  smart_quotes: Nothing in Life is to be feared, It is only to be understood ... - Marie Curie
+  smart_quotes: Nothing in Life is to be feared, it is only to be understood ... - Marie Curie
   enable_coderay: false
 
 
