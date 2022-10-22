@@ -14,9 +14,9 @@ author_profile: true
     
 * Deo, M., **Akwaboah, A.**, Tsevi, B., Treat, J.A. and Cordeiro, J.M., 2020. Role of the rapid delayed rectifier K+ current in human induced pluripotent stem cells derived cardiomyocytes. Archives of stem cell and therapy, 1(1), p.14. https://doi.org/10.46439/stemcell.1.003
     
-**Akwaboah, A.D.**, Yamlome, P., Treat, J.A., Cordeiro, J.M. and Deo, M., 2020, July. Genetic algorithm for fitting cardiac cell biophysical model formulations. In 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) (pp. 2463-2466). IEEE. https://doi.org/10.1109/EMBC44109.2020.9175707
+* **Akwaboah, A.D.**, Yamlome, P., Treat, J.A., Cordeiro, J.M. and Deo, M., 2020, July. Genetic algorithm for fitting cardiac cell biophysical model formulations. In 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) (pp. 2463-2466). IEEE. https://doi.org/10.1109/EMBC44109.2020.9175707
     
-Yamlome, P., **Akwaboah, A.D.**, Marz, A. and Deo, M., 2020, July. Convolutional neural network based breast cancer histopathology image classification. In 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) (pp. 1144-1147). IEEE. https://doi.org/10.1109/EMBC44109.2020.9176594
+* Yamlome, P., **Akwaboah, A.D.**, Marz, A. and Deo, M., 2020, July. Convolutional neural network based breast cancer histopathology image classification. In 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) (pp. 1144-1147). IEEE. [https://doi.org/10.1109/EMBC44109.2020.9176594]
 
 {% comment %}
 {% if author.googlescholar %}
