@@ -3,13 +3,13 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Research"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "News"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Gallery"
     url: /portfolio/
         
   - title: "Blog Posts"
