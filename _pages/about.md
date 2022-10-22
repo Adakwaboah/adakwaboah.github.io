@@ -17,7 +17,7 @@ In Summer 2022, I received the MSE in Electrical Engineering from the Johns Hopk
 News
 ======
 * **[October 2022]** JHU Diploma arrived in the mail! MSE in Electrical Engineering *en route* the PhD.
-* **[July 2022]** Presented [LoDENNS](https://doi.org/10.1145/3546790.3546793) at the [International Conference on Neuromorphic Systems (ICONS 2022)](https://icons.ornl.gov).
+* **[July 2022]** Presented [LODeNNS](https://doi.org/10.1145/3546790.3546793) at the [International Conference on Neuromorphic Systems (ICONS 2022)](https://icons.ornl.gov).
 * **[July 2022]** Participated in the [2022 Telluride Neuromorphic Cognition Workshop](https://sites.google.com/view/telluride-2022/home).
 * **[December 2021]** [Paper](https://ieeexplore.ieee.org/abstract/document/9662355) published in IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)
 * **[September 2021]** Passed JHU ECE Department Qualifying Exam
