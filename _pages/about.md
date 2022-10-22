@@ -16,5 +16,5 @@ In Summer 2022, I received the MSE in Electrical Engineering from the Johns Hopk
 
 News
 ======
-1. 
+* [July 2022] Presented [LoDENNS](https://doi.org/10.1145/3546790.3546793) at the [International Conference on Neuromorphic Systems (ICONS 2022)](https://icons.ornl.gov)
 
