@@ -20,8 +20,6 @@ author_profile: true
    <img align="right" width="500" height="500" src="/images/smc.png">
 
 
- 
-
   * Efficient Deep Neural Network by Saliency-gated Dropout
   ----------------
 
