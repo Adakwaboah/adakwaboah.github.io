@@ -11,7 +11,7 @@ Efforts here include the development of efficient Hebbian learning based algorit
 
 On the Algorithmic front, we have developed [LODeNNS](https://doi.org/10.1145/3546790.3546793), a linearly optimized Dendrocentric Nearest Neighbor STDP suitable for state-of-the-art large-scale digital neuromorphic platforms such as the Intel Loihi for spatiotemporal signal applications such as tracking and audio recognition. Future work on this include validation and application on event-based data.
 
-On the hardware front, insights from the algorithmic level are being translated in mixed signal VLSI.
+On the hardware front, insights from the algorithmic level are being translated in mixed signal VLSI with implications for learning at the edge and on-the-fly, i.e. low-power intelligent sensors.
 
 VLSI implementation of Synaptic Memory Consolidation
 ----------------
