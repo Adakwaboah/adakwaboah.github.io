@@ -16,9 +16,11 @@ author_profile: true
   ![STDP Hardware and circuit](/images/stdp_circuit.png)
   * VLSI implementation of Synaptic Memory Consolidation for Lifelong Learning
   ----------------
-  Our brains are capable of learning new information quickly and retaining them over long periods - from days to years. <img align="right" width="500" height="500" src="/images/smc.png"> 
-  This rigidity-plasticity property is lacking in present day recognition engines that are often riddled with catatrosphic forgetting arising from vanishing and exploding gradients. The goal here is implement computational prinicples (the Linear Chain Bicascade model) behind synaptic memory consolidation (SMC) presented by Benna and Fusi<sup>[[3]](https://doi.org/10.1038/nn.4401)</sup> in mixed signal VLSI. Ultimately, deployed an array of synapse equipped with such a property will be useful for realizing energy-efficient hardware for continual learning.
-
+  Our brains are capable of learning new information quickly and retaining them over long periods - from days to years. This rigidity-plasticity property is lacking in present day recognition engines that are often riddled with catatrosphic forgetting arising from vanishing and exploding gradients. The goal here is implement computational prinicples (the Linear Chain Bicascade model) behind synaptic memory consolidation (SMC) presented by Benna and Fusi<sup>[[3]](https://doi.org/10.1038/nn.4401)</sup> in mixed signal VLSI. Ultimately, deployed an array of synapse equipped with such a property will be useful for realizing energy-efficient hardware for continual learning.
+  ![Synaptic Memory Consolidation](/images/smc_resize.png)
+  {% comment %}
+  <img align="right" width="500" height="500" src="/images/smc.png">
+  {% endcomment %}
 
   * Efficient Deep Neural Network by Saliency-gated Dropout
   ----------------
