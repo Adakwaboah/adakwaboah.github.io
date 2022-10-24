@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Research: Neuromorphics & Neural Interfaces"
 permalink: /research/
 author_profile: true
 ---
