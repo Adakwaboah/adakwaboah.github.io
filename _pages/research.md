@@ -17,7 +17,7 @@ author_profile: true
   * VLSI implementation of Synaptic Memory Consolidation
   ----------------
 
-  * Improving Recogntion Efficiency by Saliency-gated Network Pruning
+  * Efficient Deep Neural Network by Saliency-gated Dropout
   ----------------
 
 * Neural Interfaces
