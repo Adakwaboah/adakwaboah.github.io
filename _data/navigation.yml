@@ -6,17 +6,17 @@ main:
   - title: "Research"
     url: /research/    
 
-  - title: "News"
+  - title: "Press"
     url: /teaching/    
     
   - title: "Randoms"
     url: /portfolio/
         
-  - title: "Press"
-    url: /year-archive/
+  # - title: "Press"
+  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
