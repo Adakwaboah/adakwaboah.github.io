@@ -14,8 +14,9 @@ author_profile: true
   On the Algorithmic front, we have developed [LODeNNS](https://doi.org/10.1145/3546790.3546793), a linearly optimized Dendrocentric Nearest Neighbor STDP suitable for existing large-scale digital neuromorphic platforms such as the Intel Loihi and can be deployed in spatiotemporal signal applications such as object tracking and audio recognition. Future work on this include validation and application on event-based data.
   On the hardware front, insights from the algorithmic level are being translated in mixed signal VLSI with implications for learning at the edge and on-the-fly, i.e. low-power intelligent sensors.
 
-  * VLSI implementation of Synaptic Memory Consolidation
+  * VLSI implementation of Synaptic Memory Consolidation for Lifelong Learning
   ----------------
+  Our brains are capable of learning new information quickly and retain them over long periods - from days to years. This rigidity-plasticity property is lacking the present day recognition engines that are often riddled with catatrosphic forgetting arising from vanishing and exploding gradients. The goal here is implement computational prinicples (the Linear Chain Bicascade model) behind synaptic memory consolidation (SMC) presented by Benna and Fusi in mixed signal VLSI. Ultimately, deployed an array of synapse equipped with such a property will be useful for realizing energy-efficient hardware for continual learning. 
 
   * Efficient Deep Neural Network by Saliency-gated Dropout
   ----------------
