@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+[Google Scholar](https://scholar.google.com/citations?user=cJ2Ln_cAAAAJ&hl=en&oi=ao)
+
 * **Akwaboah, A.** and Etienne-Cummings, R., 2022, July. LODeNNS: A Linearly-approximated and Optimized Dendrocentric Nearest Neighbor STDP. In Proceedings of the International Conference on Neuromorphic Systems 2022 (pp. 1-8). [https://doi.org/10.1145/3546790.3546793](https://doi.org/10.1145/3546790.3546793)
 
 * Ghaffari, D.H., **Akwaboah, A.D.**, Mirzakhalili, E. and Weiland, J.D., 2021. Real-Time Optimization of Retinal Ganglion Cell Spatial Activity in Response to Epiretinal Stimulation. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 29, pp.2733-2741. [https://doi.org/10.1109/TNSRE.2021.3138297](https://doi.org/10.1109/TNSRE.2021.3138297)
