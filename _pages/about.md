@@ -16,7 +16,7 @@ In Summer 2022, I received the MSE in Electrical Engineering from the Johns Hopk
 
 News
 ======
-* **[November 2022]** Speaking at the [Laboratory for Computational Sensing + Robotics (LCSR)](https://lcsr.jhu.edu) Seminar - 11/06. [Abstract](https://drive.google.com/file/d/1f8N_D7ACt87rb2HH2c_bhzg5YPHmAVTt/view?usp=share_link)
+* **[November 2022]** Speaking at the [Laboratory for Computational Sensing + Robotics (LCSR)](https://lcsr.jhu.edu) Seminar - 11/06. [Abstract](https://drive.google.com/file/d/1f8N_D7ACt87rb2HH2c_bhzg5YPHmAVTt/view?usp=share_link).
 
 * **[October 2022]** JHU Diploma arrived in the mail! MSE in Electrical Engineering *en route* the PhD.
 * **[July 2022]** Presented [LODeNNS](https://doi.org/10.1145/3546790.3546793) at the [International Conference on Neuromorphic Systems (ICONS 2022)](https://icons.ornl.gov).
