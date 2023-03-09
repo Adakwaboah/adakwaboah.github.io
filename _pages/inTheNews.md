@@ -7,7 +7,10 @@ author_profile: true
 
 
 * [March 2023] First Organoid Intelligence Workshop I participated in captured in media: \\
-  - CNN: [Move over, artificial intelligence. Scientists announce a new ‘organoid intelligence’ field](https://www.cnn.com/2023/03/02/world/brain-computer-organoids-scn/index.html)
+  - [Move over, artificial intelligence. Scientists announce a new ‘organoid intelligence’ field](https://www.cnn.com/2023/03/02/world/brain-computer-organoids-scn/index.html)
+
+* [August 2021] Cardiomyocyte model from my master's dissertation captured in media
+- [Researchers create cardiomyocyte model using a genetic algorithm](https://www.azolifesciences.com/news/20210831/Researchers-create-cardiomyocyte-model-using-a-genetic-algorithm.aspx)
 
 {% comment %}
 {% if author.googlescholar %}
