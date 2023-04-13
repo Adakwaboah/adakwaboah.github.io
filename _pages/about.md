@@ -16,7 +16,7 @@ In Summer 2022, I received the MSE in Electrical Engineering from the Johns Hopk
 
 News
 ======
-* **[April 2023]** Paper <em>"A Current-Mode Implementation of a Nearest Neighbor STDP Synapse"</em> accepted to the IEEE NEWCAS 2023 Conference, Scotland Edinburgh
+* **[April 2023]** Paper <em>"A Current-Mode Implementation of a Nearest Neighbor STDP Synapse"</em> accepted to the [IEEE NEWCAS 2023] Conference](https://2023.ieee-newcas.org), Scotland Edinburgh
 * **[February 2023]** Seminal papers [[1](https://doi.org/10.3389/frai.2023.1116870),[2](https://doi.org/10.3389/fsci.2023.1068159)] on the exploration of the new 'Organoid Intelligence' field published in Frontiers in Science and Frontiers in Artificial Intelligence.
 * **[November 2022]** Speaking at the [Laboratory for Computational Sensing + Robotics (LCSR)](https://lcsr.jhu.edu) Seminar - 11/06. [Abstract](https://drive.google.com/file/d/1f8N_D7ACt87rb2HH2c_bhzg5YPHmAVTt/view?usp=share_link).
 * **[October 2022]** JHU Diploma arrived in the mail! MSE in Electrical Engineering *en route* the PhD.
