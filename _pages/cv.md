@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[View CV](https://drive.google.com/file/d/11HgHDB7F-zjcQ-JgsfdEpPWdJVmf50QA/view?usp=sharing)
+[View CV](https://drive.google.com/file/d/11MDIG5kwm2ZRTFpZWALCxP35z-_mTu8T/view?usp=share_link)
 
 {% include base_path %}
 
