@@ -15,6 +15,7 @@ I am a 4<sup>th</sup> year Ph.D. student at the [Computational Sensory-Motor Sys
 In Summer 2022, I received the MSE in Electrical Engineering from the Johns Hopkins University <em>en route</em> the Ph.D. I also received an MS in Electronics Engineering from Norfolk State University(NSU) in 2020. At NSU, I worked at the [Computational Cardiac Engineering Lab](https://sites.google.com/view/ccelabnsu/home) and was advised by [Dr. Makarand Deo](https://www.nsu.edu/engineering/Dr-Makarand-Deo). My master's thesis there focused on the formulation of heuristically optimized computational model[<sup>[2]</sup>](https://doi.org/10.3389/fphys.2021.675867) of a stem cell-derived cardiomyocyte with implications in cardiac safety pharmacology. I hold a BSc. Biomedical Engineering (First Class Honors) from the Kwame Nkrumah University of Science and Technology (KNUST), Ghana which I received in 2017. On the lighter side, I love to cook and listen to Afrobeats. At my leisure, I dabble in world history, philosophy and sci-fi. Before and after a hard day's work, I pet/walk Zeus, my dawg!
 
 ![Telluride: See Forever Trail](/images/see_forever_trail_telluride.jpg)
+| - |
 |:--:| 
 | *See Forever Trail, Telluride CO (Summer 2023)*|
 
