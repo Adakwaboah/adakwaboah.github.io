@@ -16,7 +16,7 @@ In Summer 2022, I received the MSE in Electrical Engineering from the Johns Hopk
 
 ![Telluride: See Forever Trail](/images/see_forever_trail_telluride.jpg)
 | - |
-|:--:| 
+<!-- |:--:|  -->
 | *See Forever Trail, Telluride CO (Summer 2023)*|
 
 News
