@@ -25,6 +25,8 @@ author_profile: true
   On the hardware front, insights from the algorithmic level are being translated in mixed signal VLSI with implications for learning at the edge and on-the-fly, i.e. low-power intelligent sensors.
   ![STDP Hardware and circuit](/images/SynapseFig.png)
 
+  *Akwaboah, A. and Etienne-Cummings, R., 2023, June. A Current-Mode Implementation of A Nearest Neighbor STDP Synapse. In 2023 21st IEEE Interregional NEWCAS Conference (NEWCAS) (pp. 1-5). IEEE.*
+
   <!-- * **VLSI implementation of Synaptic Memory Consolidation for Lifelong Learning**
   ----------------
   Our brains are capable of learning new information quickly and retaining them over long periods - from days to years. This plasticity-rigidity property is lacking in present day Machine Learning models as they are often riddled with catatrosphic forgetting arising from vanishing and exploding gradients. The goal here is implement computational prinicples (the Linear Chain Bicascade model) behind synaptic memory consolidation (SMC) presented by Benna and Fusi<sup>[[3]](https://doi.org/10.1038/nn.4401)</sup> in mixed signal VLSI. Ultimately, deploying an array of synapse equipped with such a property will be useful for realizing energy-efficient hardware for continual learning.
@@ -42,3 +44,5 @@ author_profile: true
   The promise of increasing channel counts in high density ($> 10^4$) neural Microelectrode Arrays (MEAs) for high resolution recording comes with the curse of developing faster characterization strategies for concurrent acquisition of multichannel electrode integrities over a wide frequency spectrum. To circumvent the latency associated with the current multiplexed technique for impedance acquisition, it is common practice to resort to the single frequency impedance measurement (i.e. $Z_{1 \text{kHz}}$). This, however, does not offer sufficient spectral impedance information crucial for determining the capacity of electrodes at withstanding slow and fast-changing stimuli and recordings. In this work, we present *HermEIS*, a novel approach that leverages single cycle in-phase and quadrature signal integrations for reducing the massive data throughput characteristic of such high density acquisition systems. As an initial proof-of-concept, we demonstrate over $6$ decades of impedance bandwidth ($5\times10^{-2} - 5\times10^{4}\text{ Hz}$) in a parallel $4$-channel potentiostatic setup composed of a custom PCB with off-the-shelf electronics working in tandem with an FPGA.
   ![HermEIS setup](/images/h_setup_rev.png)
   ![HermEIS results](/images/h_results.png)
+
+  *Akwaboah, A. and Etienne-Cummings, R., 2024. HermEIS: A Parallel Multichannel Approach to Rapid Spectral Characterization of Neural MEAs. arXiv preprint arXiv:2403.07758.*
