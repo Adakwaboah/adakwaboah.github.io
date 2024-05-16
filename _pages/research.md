@@ -14,7 +14,7 @@ author_profile: true
   ![Saliency-compressed CNN](/images/SalCNN_sum.png)
 
 
-  * **Sparse Neural Network Inference in Chip Multiprocessor Hardware**  
+  * **Distributed Sparse Neural Network Inference in Chip Multiprocessor Hardware**  
   ------------
   This direction focuses on efficient strategies for translating sparse neural network models into distributed processing hardware paradigms, i.e. chip multiprocessor systems e.g. [SpiNNaker2](https://spinncloud.com/portfolio/spinnaker2/)<sup>[*](https://arxiv.org/abs/1911.02385)</sup>
 
