@@ -21,6 +21,7 @@ In Summer 2022, I received the MSE in Electrical Engineering from the Johns Hopk
 
 News
 ======
+* **[April 2024]** 1 paper<sup>[3](https://arxiv.org/abs/2403.07758)</sup> accepted at the IEEE Engineering in Medicine and Biology Conference (EMBC) 2024
 * **[February 2024]** Passed ECE Graduate Board Oral Exam
 * **[January 2024]** Awarded the [NSF AccelNet NeuroPAC Fellowship](https://www.neuropac.info/fellowships/) for Fall 2024 research at UCSD with [Dr. Gert Cauwenberghs](https://scholar.google.com/citations?user=KZQz_7AAAAAJ&hl=en&oi=ao)
 * **[July 2023]** Participated in the [2023 Telluride Neuromorphic Cognition Workshop](https://sites.google.com/view/telluride-2023/home).
@@ -36,5 +37,5 @@ News
 * **[December 2020]** Received NSU Diploma. MS in Electronics Engineering.
 * **[August 2020]** Joined the Johns Hopkins University, Awarded the Dean Robert H. Roy Fellowship
 * **[March 2020]** Defended master's thesis at NSU.
-* **[April 2020]** 2 papers<sup>[[1]](https://doi.org/10.1109/EMBC44109.2020.9175707)[[2]](https://doi.org/10.1109/EMBC44109.2020.9176594)</sup> accepted in the IEEE Engineering in Medicine and Biology Conference (EMBC) 2020
+* **[April 2020]** 2 papers<sup>[[1]](https://doi.org/10.1109/EMBC44109.2020.9175707)[[2]](https://doi.org/10.1109/EMBC44109.2020.9176594)</sup> accepted at the IEEE Engineering in Medicine and Biology Conference (EMBC) 2020
 * **[January 2020]** Joined the [BioElectronic Vision Lab](https://weilandresearch.bme.umich.edu) at the University of Michigan as a research intern.
