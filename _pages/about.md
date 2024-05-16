@@ -21,6 +21,7 @@ In Summer 2022, I received the MSE in Electrical Engineering from the Johns Hopk
 
 News
 ======
+* **[January 2024]** Awarded the [NSF AccelNet NeuroPAC Fellowship](https://www.neuropac.info/fellowships/) for Fall 2024 research at UCSD with Dr. Gert Cauwneberghs
 * **[July 2023]** Participated in the [2023 Telluride Neuromorphic Cognition Workshop](https://sites.google.com/view/telluride-2023/home).
 * **[April 2023]** Presented <em>"[A Current-Mode Implementation of a Nearest Neighbor STDP Synapse](https://doi.org/10.1109/NEWCAS57931.2023.10198113)"</em> accepted to the [IEEE NEWCAS 2023 Conference](https://2023.ieee-newcas.org), Scotland Edinburgh
 * **[February 2023]** Seminal papers [[1](https://doi.org/10.3389/frai.2023.1116870),[2](https://doi.org/10.3389/fsci.2023.1068159)] on the exploration of the new 'Organoid Intelligence' field published in Frontiers in Science and Frontiers in Artificial Intelligence.
