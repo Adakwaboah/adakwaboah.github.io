@@ -7,7 +7,9 @@ author_profile: true
 
 [Google Scholar](https://scholar.google.com/citations?user=cJ2Ln_cAAAAJ&hl=en&oi=ao)
 
-* **Akwaboah, A.** and Etienne-Cummings, R., 2024. HermEIS: A Parallel Multichannel Approach to Rapid Spectral Characterization of Neural MEAs. arXiv preprint arXiv:2403.07758. [https://arxiv.org/abs/2403.07758](https://arxiv.org/abs/2403.07758) *Accepted at IEEE EMBC 2024*
+* **Akwaboah A.**, Chae H.Y., Mendat R.D., Sampson A., Lohmann M., Mayr C. Niebur E., Mihalas S., Andreou A.G., Etienne-Cummings R., 2024. A Minimal Inter-core Communication Approach to Sparse Neural Network Inference In A Chip Multiprocessor Architecture (*Submitted to the ICONS 2024*)
+
+* **Akwaboah, A.** and Etienne-Cummings, R., 2024. HermEIS: A Parallel Multichannel Approach to Rapid Spectral Characterization of Neural MEAs. arXiv preprint arXiv:2403.07758. [https://arxiv.org/abs/2403.07758](https://arxiv.org/abs/2403.07758) (*Accepted at IEEE EMBC 2024*)
 
 * **Akwaboah, A.** and Etienne-Cummings, R., 2023, June. A Current-Mode Implementation of A Nearest Neighbor STDP Synapse. In 2023 21st IEEE Interregional NEWCAS Conference (NEWCAS) (pp. 1-5). IEEE. [https://doi.org/10.1109/NEWCAS57931.2023.10198113](https://doi.org/10.1109/NEWCAS57931.2023.10198113)
 
