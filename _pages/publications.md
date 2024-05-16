@@ -7,6 +7,8 @@ author_profile: true
 
 [Google Scholar](https://scholar.google.com/citations?user=cJ2Ln_cAAAAJ&hl=en&oi=ao)
 
+* **Akwaboah, A.** and Etienne-Cummings, R., 2024. HermEIS: A Parallel Multichannel Approach to Rapid Spectral Characterization of Neural MEAs. arXiv preprint arXiv:2403.07758. [https://arxiv.org/abs/2403.07758](https://arxiv.org/abs/2403.07758)
+
 * **Akwaboah, A.** and Etienne-Cummings, R., 2023, June. A Current-Mode Implementation of A Nearest Neighbor STDP Synapse. In 2023 21st IEEE Interregional NEWCAS Conference (NEWCAS) (pp. 1-5). IEEE. [https://doi.org/10.1109/NEWCAS57931.2023.10198113](https://doi.org/10.1109/NEWCAS57931.2023.10198113)
 
 * Hartung, T., Morales Pantoja, I., Smirnova, L., Muotri, A., Wahlin, K., Kahn, J., Boyd, L., Gracias, D., Harris, T., Cohen-Karni, I. and Caffo, B.S., Szalay A., Han F., Zack D., Etienne-Cummings R., **Akwaboah A.**, Romero J.C., Din D.A, Plotkin J.D., Paulhumus B., Johnson E.C., Gilbert F., Curley J.L., Cappiello B., Schwamborn J.C., Hill E.J., Roach P., Tornero D., Krall C., Parri R., Sille F., Levchenko A., Jabbour R., Kagan B.J., Berlinicke C., Huang Q., Maertens A., Herrmann K., Tsaioun K., Dastgheyb R., Habela C., Vogelstein J.T., 2023. First Organoid Intelligence (OI) workshop to form an OI community. Frontiers in Artificial Intelligence, 6, p.29.[ https://doi.org/10.3389/frai.2023.1116870]( https://doi.org/10.3389/frai.2023.1116870)
