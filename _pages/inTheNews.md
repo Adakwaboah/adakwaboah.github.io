@@ -5,6 +5,8 @@ permalink: /inTheNews/
 author_profile: true
 ---
 
+* **[June 2024]** JHU ECE announces my NSF AccelNet NeuroPAC Fellowship Award: \\
+  - [ECE Graduate Student Receives NSF Fellowship Award](https://engineering.jhu.edu/ece/news/ece-graduate-student-receives-nsf-fellowship-award/)
 
 * **[March 2023]** First Organoid Intelligence Workshop I participated in captured in media: \\
   - [Move over, artificial intelligence. Scientists announce a new ‘organoid intelligence’ field](https://www.cnn.com/2023/03/02/world/brain-computer-organoids-scn/index.html)
