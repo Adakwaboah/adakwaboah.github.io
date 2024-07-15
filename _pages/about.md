@@ -21,6 +21,7 @@ In Summer 2022, I received the MSE in Electrical Engineering from the Johns Hopk
 
 News
 ======
+* **[July 2024]** Participated in the [2024 Telluride Neuromorphic Cognition Workshop](https://sites.google.com/view/telluride-2024/home).
 * **[April 2024]** 1 paper<sup>[3](https://arxiv.org/abs/2403.07758)</sup> accepted at the IEEE Engineering in Medicine and Biology Conference (EMBC) 2024
 * **[February 2024]** Passed JHU ECE Graduate Board Oral Exam
 * **[January 2024]** Awarded the [NSF AccelNet NeuroPAC Fellowship](https://www.neuropac.info/fellowships/) for Fall 2024 research at UCSD with [Dr. Gert Cauwenberghs](https://scholar.google.com/citations?user=KZQz_7AAAAAJ&hl=en&oi=ao) [(See Announcement)](https://engineering.jhu.edu/ece/news/ece-graduate-student-receives-nsf-fellowship-award/)
