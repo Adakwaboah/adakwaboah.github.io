@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Akwasi Akwaboah"
-  avatar           : "sp24_headshot1.jpg" #"Akwasi_headshot.jpg"
+  avatar           : "ECE_Headshot_25-42_crop.jpg" #"sp24_headshot1.jpg" #"Akwasi_headshot.jpg"
   bio              : "Ph.D. Candidate, Electrical & Computer Engineering, The Johns Hopkins University"
   employer         : "Johns Hopkins University"
   location         : #"Baltimore, MD, USA"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@akwaboahdarkwah"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
