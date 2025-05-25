@@ -7,7 +7,10 @@ author_profile: true
 
 [Google Scholar](https://scholar.google.com/citations?user=cJ2Ln_cAAAAJ&hl=en&oi=ao)
 
-* **Akwaboah. A.**, Etienne-Cummings, R., 2024. Neuromorphic Electronics at BioCAS: A 20-year Legacy of Sparking Technology Revolutions *(Submitted to BioCAS 2024)*
+* **Akwaboah A.**, Leugering J., Phillips L., Cauwenberghs G., Etienne-Cummings R. 2024. Sensing Temporal
+Codes and Probing System Responses with Spikes: An Active Pixel Approach. (Accepted, ISCAS 2025)
+
+* **Akwaboah, A.** and Etienne-Cummings, R., 2024, October. Neuromorphic Electronics at BioCAS: A 20-year Legacy of Sparking Technology Revolutions. In 2024 IEEE Biomedical Circuits and Systems Conference (BioCAS) (pp. 1-10). IEEE. [https://doi.org/10.1109/BioCAS61083.2024.10798206](https://doi.org/10.1109/BioCAS61083.2024.10798206)
 
 * **Akwaboah, A.**, Chae H.Y., Mendat R.D., Sampson A., Lohmann M., Mayr C. Niebur E., Mihalas S., Andreou A.G., Etienne-Cummings R., 2024. A Minimal Inter-core Communication Approach to Sparse Neural Network Inference In A Chip Multiprocessor Architecture (*Poster Presentation, ICONS 24*)
 
