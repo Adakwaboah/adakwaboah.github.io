@@ -9,7 +9,7 @@ author_profile: true
 ==========
 
   * **Neuromorphic Perception**
-  In this research direction, I seek to compliment traditional event-based sensors, that transduce physical signals (i.e. light, sound, touch, ...) into events, with a novel integrative stage that finds correlations between multiple sensory event streams in a manner akin the cortical processing. For this, I present a new perspective to similarity detection in analog VLSI based on the well-known [van Rossum distance](https://doi.org/10.1162/089976601300014321). I am convinced this direction will offer an energy efficient approach to 'imaging' and enforcing neural synchrony between neuromorphic and neuronal systems with direct implications for low-power AI hardware.
+  In this research direction, I seek to compliment traditional event-based sensors, that transduce physical signals (i.e. light, sound, touch, ...) into events, with a novel integrative stage that finds correlations between multiple sensory event streams in a manner akin to the cortical processing. For this, I present a new perspective to similarity detection in analog VLSI based on the well-known [van Rossum distance](https://doi.org/10.1162/089976601300014321). I am convinced this direction will offer an energy efficient approach to 'imaging' and enforcing neural synchrony between neuromorphic and neuronal systems with direct implications for low-power AI hardware.
   ![Spike Correlator](/images/CorrPixDemo.001.jpeg)
 
   *Akwaboah A., Leugering J., Phillips L., Cauwenberghs G., Etienne-Cummings R. 2024. Sensing Temporal Codes and Probing System Responses with Spikes: An Active Pixel Approach. (Accepted, ISCAS 2025)*
