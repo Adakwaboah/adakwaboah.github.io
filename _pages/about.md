@@ -21,7 +21,7 @@ In Summer 2022, I received the MSE in Electrical Engineering from the Johns Hopk
 
 News
 ======
-* **[January 2025]** 1 paper accepted at 2025 IEEE International Symposium on Circuits and Systems
+* **[February 2025]** 1 paper accepted at 2025 IEEE International Symposium on Circuits and Systems
 * **[September 2024]** Visiting Scholar at the [Gert Cauwenberghs](https://jacobsschool.ucsd.edu/node/3271)' [Integrated Systems Neuroengineering (ISN) Lab](https://isn.ucsd.edu/index.php), University of California San Diego 
 * **[July 2024]** Participated in the [2024 Telluride Neuromorphic Cognition Workshop](https://sites.google.com/view/telluride-2024/home).
 * **[April 2024]** 1 paper<sup>[3](https://arxiv.org/abs/2403.07758)</sup> accepted at the IEEE Engineering in Medicine and Biology Conference (EMBC) 2024
