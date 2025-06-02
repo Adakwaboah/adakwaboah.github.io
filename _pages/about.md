@@ -21,7 +21,7 @@ In Summer 2022, I received the MSE in Electrical Engineering from the Johns Hopk
 
 News
 ======
-* **[May 2025]** Paper "Sensing Temporal Codes and Probing System Responses with Spikes: An Active Pixel Approach" received Best Paper Award - Honorary Mention at ISCAS 2025
+* **[May 2025]** Paper "Sensing Temporal Codes and Probing System Responses with Spikes: An Active Pixel Approach" received Best Paper Award - Honorary Mention at the 2025 IEEE International Symposium on Circuits and Systems (ISCAS)
 * **[February 2025]** 1 paper accepted at 2025 IEEE International Symposium on Circuits and Systems
 * **[September 2024]** Visiting Scholar at the [Gert Cauwenberghs](https://jacobsschool.ucsd.edu/node/3271)' [Integrated Systems Neuroengineering (ISN) Lab](https://isn.ucsd.edu/index.php), University of California San Diego 
 * **[July 2024]** Participated in the [2024 Telluride Neuromorphic Cognition Workshop](https://sites.google.com/view/telluride-2024/home).
