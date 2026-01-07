@@ -7,6 +7,8 @@ author_profile: true
 
 [Google Scholar](https://scholar.google.com/citations?user=cJ2Ln_cAAAAJ&hl=en&oi=ao)
 
+* **Akwaboah A.**, , Sampson A.,  Goldhaber-Gordon S., Mihalas S., Niebur E., Andreou A., Etienne-Cummings R. AstroNet: Self-Modulation of Deep Feature Space Via Bottom-Up Saliency Descriptors  (Submitted: 2026 Neuro-Inspired Computing Elements (NICE) Conference)
+
 * **Akwaboah A.**, Leugering J., Phillips L., Cauwenberghs G., Etienne-Cummings R. 2024. Sensing Temporal
 Codes and Probing System Responses with Spikes: An Active Pixel Approach. (Accepted, ISCAS 2025)
 
